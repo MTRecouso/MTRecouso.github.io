@@ -1,0 +1,2 @@
+webpackJsonp([0xc19374f83753],{508:function(e,t,u){"use strict";function a(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var s=u(1),l=a(s),n=function(){return l.default.createElement("div",{className:"white-text"},l.default.createElement("h1",null,"EM CONSTRUÇÃO"),l.default.createElement("p",null,"Futuramente essa página terá artigos sobre os meus estudos e projetos."))};t.default=n,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-blog-js-d2fdee8d1e5d8c8d9aea.js.map
